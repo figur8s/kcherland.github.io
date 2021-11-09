@@ -2,13 +2,12 @@
 layout: default
 img: master.jpg
 category: Education
-title: Master's in Plant Physiology
+title: Bachelor of Arts in International Relations
 description: |
 ---
 
-* __2010 - 2012__
-* University of California
-* Dissertation Titile
-* Advisor: Dr. PI Name
-* Scholarship from: NSF
+* __2010 - 2014__
+* Claremont McKenna College
+* Advisors: Dr. Heather L. Ferguson, Dr. Kristin E. Fabbe
+* Scholarship: McKenna Merit Scholarship
 
