@@ -2,14 +2,10 @@
 layout: default
 img: phd.jpg
 category: Education
-title: PhD in Genetics
-description: 2012-2016
+title: MS in Statistics
+description: 2020-2022
 ---
 
-* __2012 - 2016__
-* University of California
-* Thesis Title
-* Description
-* Advisor: Dr. PI Name
-* Scholarship from: NSF
+* __2020 - 2022__
+* California State University, Fullerton
 
