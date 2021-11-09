@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.MyName.com
-title: My Name
-email: email@gmail.com
-author: MYNAME
-description: "MyName's Personal Page"
+url: https://figur8s.github.io/kcherland.github.io/
+title: Kelsey Cherland
+email: kelsey.cherland@gmail.com
+author: Kelsey Cherland
+description: "Kelsey Cherland's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,17 +26,17 @@ plugins:
 social:
   - icon: github
     title: github
-    url: https://github.com/NyName 
+    url: https://github.com/figur8s 
   - icon: envelope-o
     title: email
-    url: mailto:NyName@gmail.com
+    url: mailto:kelsey.cherland@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/NyName/
+    url: https://www.linkedin.com/in/kelsey-cherland/
 #  - icon: file-pdf-o
 #    title: CV
 #    url: img/MyCV.pdf
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/MyName
+#  - icon: twitter
+#    title: twitter
+#    url: https://twitter.com/MyName
 
