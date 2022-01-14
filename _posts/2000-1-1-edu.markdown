@@ -9,3 +9,9 @@ description: 2020-2022
 * __2020 - 2022__
 * California State University, Fullerton
 
+title: BA in International Relations
+description: 2010-2014
+---
+
+* __2010 - 2014__
+* Claremont McKenna College
