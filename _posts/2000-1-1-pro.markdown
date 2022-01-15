@@ -2,8 +2,8 @@
 layout: default
 img: project.jpg
 category: Projects
-title: "Project Name"
-description: |
+title: "Does Personality Pick the Poison?"
+description: Machine Learning
 ---
 
-* Add here the project description...
+* In this project, I analyze the relationship between drug use and psychometric measures. The data was obtained by the UCI Repository 
