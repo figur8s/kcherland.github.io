@@ -9,14 +9,3 @@ description: California State University, Fullerton
 * __California State University, Fullerton__
 * 2020-2022
 
----
-layout: default
-img: phd.jpg
-category: Education
-title: Bachelor of Arts in International Relations
-description: Claremont McKenna College
----
-
-* __California State University, Fullerton__
-* 2020-2022
-* 
