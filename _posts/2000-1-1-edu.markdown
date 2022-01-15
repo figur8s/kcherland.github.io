@@ -2,9 +2,10 @@
 layout: default
 img: phd.jpg
 category: Education
-title: MS in Statistics
-description: 2020-2022
+title: Master of Science in Statistics
+description: California State University, Fullerton
 ---
 
-* __2020 - 2022__
-* California State University, Fullerton
+* __California State University, Fullerton__
+* 2020-2022
+* 
