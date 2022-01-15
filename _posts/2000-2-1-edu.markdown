@@ -1,13 +1,13 @@
 ---
 layout: default
 img: master.jpg
-category:  
+category: Education
 title: Bachelor of Arts in International Relations
-description: |
+description: Claremont McKenna College
 ---
 
-* __2010 - 2014__
-* Claremont McKenna College
+* __Claremont McKenna College__
+* 2010-2014
 * Advisors: Heather L. Ferguson, Kristin E. Fabbe
 * Scholarship: McKenna Merit Scholarship
 
