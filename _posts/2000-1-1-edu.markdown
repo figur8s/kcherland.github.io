@@ -12,6 +12,7 @@ description: California State University, Fullerton
 ---
 layout: default
 img: phd.jpg
+category: Education
 title: Bachelor of Arts in International Relations
 description: Claremont McKenna College
 ---
