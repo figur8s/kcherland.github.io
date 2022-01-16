@@ -6,4 +6,4 @@ title: "Does Personality Pick the Poison?"
 description: Machine Learning
 ---
 
-* An analysis seeking to explain the relationship between drug use and psychometric measures. The data was obtained by the UCI Repository for Machine Learning. The analysis is motivated by the desire to understand who is at greater risk of using specific drugs in order to more directly address potential drug addiction.
+* The data was obtained by the UCI Repository for Machine Learning. The analysis is motivated by the desire to understand who is at greater risk of using specific drugs in order to more directly address potential drug addiction.
