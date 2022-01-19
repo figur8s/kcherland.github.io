@@ -1,7 +1,7 @@
 ---
 layout: default
 img: code.jpg
-category: Experiences
+category:  
 title: "Postdoctoral Researcher"
 description: |
 ---
