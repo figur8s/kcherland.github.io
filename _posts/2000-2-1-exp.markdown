@@ -1,7 +1,7 @@
 ---
 layout: default
 img: dna.jpg
-category: Experiences
+category:  
 title: "Molecular Biology Bioinformatic Scientist"
 description: |
 ---
