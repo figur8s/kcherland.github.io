@@ -9,5 +9,5 @@ description: Bayesian Statistics
 This is a selection I wrote for a group project on Hamiltonian Monte Carlo (HMC).
 Briefly, the HMC uses physical system dynamics to predict future states in the Markov Chain.
 The trajectory found by these Hamiltonian dynamics is evaluated by the "leapfrog" symplectic integrator. The proposals are then selected using standard Metropolis procedure.
-The acceptance rate is typically very high (>70%) compared to other methods of deriving samples like standard Metropolis or Gibbs. See more: https://github.com/figur8s/hamiltonian-monte-carlo. 
+The acceptance rate is typically very high (>70%) compared to other methods of deriving samples like standard Metropolis or Gibbs. See more: <a href="https://github.com/figur8s/hamiltonian-monte-carlo">. 
 
