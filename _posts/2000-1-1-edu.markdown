@@ -6,13 +6,3 @@ title: Master of Science in Statistics
 description: 
 ---
 * California State University, Fullerton (2022)
-
----
-layout: default
-img:
-title: Bachelor of Arts in International Relations
-description: 
----
-
-* Claremont McKenna College (2014)
-
