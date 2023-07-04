@@ -7,6 +7,7 @@ description:
 ---
 * California State University, Fullerton (2022)
 
-__Bachelor of Arts in International Relations__
+title: Bachelor of Arts in International Relation
+
 * Claremont McKenna College (2014)
 
