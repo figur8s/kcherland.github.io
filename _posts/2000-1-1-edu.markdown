@@ -9,6 +9,7 @@ description:
 
 ---
 layout: default
+img:
 title: Bachelor of Arts in International Relations
 description: 
 ---
