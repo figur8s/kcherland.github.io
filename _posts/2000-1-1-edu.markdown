@@ -2,7 +2,8 @@
 layout: default
 img: grad_csuf.jpg
 category: Education
-title: M.S. Statistics, B.A. International Relations
+title: M.S. Statistics, 
+B.A. International Relations
 description: 
 ---
 
