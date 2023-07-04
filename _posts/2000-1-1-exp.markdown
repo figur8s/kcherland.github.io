@@ -1,7 +1,7 @@
 ---
 layout: default
 img: code.jpg
-category:  
+category:  Experiences
 title: Data Analyst
 description: Southern California Coastal Water Research Project
 ---
