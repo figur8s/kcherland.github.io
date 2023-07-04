@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phd.jpg
+img: grad_csuf.jpg
 category: Education
 title: Master of Science in Statistics
 description: California State University, Fullerton
