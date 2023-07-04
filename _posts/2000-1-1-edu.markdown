@@ -1,14 +1,16 @@
 ---
 layout: default
 img: grad_csuf.jpg
-category: Education
-title: 
+category:  
+title: Education
 description: 
 ---
 
 __Master of Science in Statistics__
-California State University, Fullerton (2022)
+
+* California State University, Fullerton (2022)
 
 __Bachelor of Arts in International Relations__
-Claremont McKenna College (2014)
+
+* Claremont McKenna College (2014)
 
