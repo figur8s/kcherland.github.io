@@ -2,11 +2,13 @@
 layout: default
 img: code.jpg
 category:  
-title: "Postdoctoral Researcher"
-description: |
+title: Data Analyst
+description: Southern California Coastal Water Research Project
 ---
 
-* __2017 – Current__
-* University of California, Riverside
-* Position: Postdoctoral Researcher
-* Activities: Project description...
+* __Southern California Coastal Water Research Project__
+* 2022-Present
+* Position: Data Analyst
+* Advise scientists and engineers in their study design, methods development, statistical analysis, and data wrangling issues.
+*	Develop script files in R, Python, and SQL that wrangle and store large data sets or output visualization and analysis.
+*	Document data products and provide quality assurance testing to programmers, scientists, and research technicians.
