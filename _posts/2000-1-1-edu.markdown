@@ -2,14 +2,15 @@
 layout: default
 img: grad_csuf.jpg
 category: Education
-title: M.S. Statistics, 
-subtitle: B.A. International Relations
+title: 
 description: 
 ---
 
-* __California State University, Fullerton__
+* __Master of Science in Statistics__
+* California State University, Fullerton
 * 2022
 
-* __Claremont McKenna College__
+* __Bachelor of Arts in International Relations__
+* Claremont McKenna College
 * 2014
 
