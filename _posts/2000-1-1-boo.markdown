@@ -1,0 +1,10 @@
+---
+layout: default
+img: project3.jpg
+category: Projects
+title: "Recommended Media"
+description: 'A book is a mirror'
+---
+
+These are books I highly recommend regarding statistics and analysis:
+-Downey, Allen B. _Probably Overthinking It: How to Use Data to Answer Questions, Avoid Statistical Traps, and Make Better Decisions_. Chicago, USA: University of Chicago Press, 2024.
