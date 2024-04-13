@@ -7,7 +7,7 @@ description: Southern California Coastal Water Research Project
 ---
 
 * __Southern California Coastal Water Research Project__
-* 2022-Present
+* March 2022-November 2023
 * Position: Data Analyst
 * Advise scientists and engineers in their study design, methods development, statistical analysis, and data wrangling issues.
 *	Develop script files in R, Python, and SQL that wrangle and store large data sets or output visualization and analysis.
