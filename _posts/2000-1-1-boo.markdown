@@ -1,6 +1,6 @@
 ---
 layout: default
-img: project-3.jpg
+img: SUV4.gif
 category: Recommended
 title: "Books"
 description: 'A book is a mirror'
