@@ -141,6 +141,9 @@ h6 {
     background-size: cover;
     height: 300px;
 }
+#contact .col-lg-4 {
+    padding-top: 20px; /* Adjust this value to move the text lower */
+}
 
 .banner h2 {
     margin: 0;
