@@ -36,13 +36,13 @@ h6 {
     /*background: url(../img/intro-bg.jpg) no-repeat center center;*/
     background-size: cover;
     pointer-events: none;
-    height: 300px; /* previously 900 px; then 500px; */
+    height: 400px; /* previously 900 px; then 500px; */
 
 }
 
 .intro-message {
     position: relative;
-    padding-top: 5%;/* previously 20%; */
+    padding-top: 10%;/* previously 20%; */
 }
 
 .intro-message > h1 {
